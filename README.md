@@ -54,7 +54,7 @@ l’extension.
 <h3>Presentation 2 Instantiation dynamique version Base de Données</h3>
 <img src="asset/pres2-1.png" alt="impl version base de données">
 <h3>Presentation 2 Instantiation dynamique version web service</h3>
-<img src="asset/pres2-2.png" alt="impl web service">
+<img src="asset/Pres2-2.png" alt="impl web service">
 <hr>
 <h3>Presentation Spring XML</h3>
 <img src="asset/PresXml2.png" alt="impl version base de données">
